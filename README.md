@@ -8,7 +8,7 @@
 
 # Decrypt.py
 
-• Takes input from `encrypted` folder and outputs them to `decrypted_nsfw` folder 
+• Takes input from `encrypted_nsfw` folder and outputs them to `decrypted_nsfw` folder 
 
 # Extension.py
 
