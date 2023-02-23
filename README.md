@@ -4,7 +4,7 @@
 
 # Encrypt.py
 
-• Create a folder named `decrypted_nsfw` because it takes input from there , as usual you can modify it by changing `folder path` in encrypt.py
+• Create a folder named `decrypted_nsfw` because it takes input from there , as usual you can modify it by changing `folder_path` in encrypt.py
 
 # Decrypt.py
 
